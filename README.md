@@ -5,4 +5,4 @@
 - [Udemy](https://www.udemy.com/)
 
 ## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações
