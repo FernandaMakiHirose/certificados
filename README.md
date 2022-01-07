@@ -1,4 +1,4 @@
-# Principais Certificados da Fernanda Maki Hirose
+# Certificados 
 ## Plataformas para obter certificados
 - [Digital Innovation One](https://www.dio.me/sign-in)
 - [Curso em Vídeo](https://www.cursoemvideo.com/)
